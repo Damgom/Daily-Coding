@@ -2,6 +2,8 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
+// 백준 1181 정렬
+// 첫줄에 정수 N을 입력받아 N개의 단어를 중복없이 짧은순으로 정렬
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
