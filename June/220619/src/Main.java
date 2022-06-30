@@ -14,6 +14,7 @@ public class Main {
                 max = arr[i];
             }
         }
+        max++;
         long min = 0;
         long mid = 0;
 

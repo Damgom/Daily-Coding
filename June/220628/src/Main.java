@@ -9,7 +9,6 @@ public class Main{
         Stack<Integer> stack = new Stack<>();
 
         for(int i = 0; i < K; i++){
-            int num = input.nextInt();
             if(num == 0){
                 stack.pop();
             }
