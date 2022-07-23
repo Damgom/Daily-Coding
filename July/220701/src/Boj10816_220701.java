@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 //백준 10816 숫자카드2 실버4
-public class Main {
+public class Boj10816_220701 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         StringBuilder sb = new StringBuilder();
