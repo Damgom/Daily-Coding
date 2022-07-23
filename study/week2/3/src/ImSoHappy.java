@@ -18,7 +18,7 @@ public class ImSoHappy {
                 count++;
             }
         }
-        System.out.println(count);
+//        System.out.println(count);
         // 수학적인방법
         System.out.println(K / M + " " + K % M);
     }

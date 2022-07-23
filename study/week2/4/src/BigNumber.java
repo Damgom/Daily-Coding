@@ -12,7 +12,7 @@ public class BigNumber {
         String N = input.next();
         long result = 0;
         for(int i = 0; i < N.length(); i++){
-            // result 에 10씩 곱하면서 결과값에 더해줌 ( 자리수 올려주기)
+            // result 에 10씩 곱하면서 결과값에 더해줌 (자리수 올려주기)
             // 12345를 예로 들면 i=0일때 0 * 10 + 1 = 1
             // i = 1일 때 1 * 10 + 2 = 12
             // i = 2일 때 12 * 10 + 3 = 123
