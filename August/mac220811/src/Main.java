@@ -7,12 +7,12 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
         // 계단
-        int[] stair = new int[N+1];
+        int[] stair = new int[301];
         for(int i = 1; i <= N; i++){
             stair[i] = Integer.parseInt(br.readLine());
         }
 
-        int[] score = new int[N+1];
+        int[] score = new int[301];
 
         score[1] = stair[1];
         score[2] = stair[1] + stair[2];
