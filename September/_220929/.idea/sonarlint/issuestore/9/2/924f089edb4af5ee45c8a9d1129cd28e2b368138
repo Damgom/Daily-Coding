@@ -1,0 +1,16 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê’øíøÿÿÿÿ
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ç˜şÿÿÿÿ
+7
+java:S1643"Use a StringBuilder instead.(ÚºöÕşÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(åÊ÷ã
+9
+java:S1643"Use a StringBuilder instead.(¢Èéœ8¾ô¨Ì¸0
+0
+java:S1220""Move this file to a named package.
+L
+java:S1854"6Remove this useless assignment to local variable "dp".(©×ˆ‚
+=
+java:S1481"'Remove this unused "dp" local variable.(©×ˆ‚
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
