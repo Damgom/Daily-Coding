@@ -7,4 +7,4 @@
 
 [BOJ Profile](https://www.acmicpc.net/user/wisewish)
 
-[Programmers](https://programmers.co.kr/)
+[Programmers](https://career.programmers.co.kr/pr/wisewish1_2696)
