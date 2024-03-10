@@ -5,8 +5,9 @@ fun main() {
     readln().split(" ").map {
         if (it.toInt() < min) {
             min = it.toInt()
-        } else if (it.toInt() > max) {
+        }
+        if (it.toInt() > max) {
             max = it.toInt()
-    }}
+        }}
     println(max - min)
 }
